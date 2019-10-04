@@ -27,7 +27,7 @@ public class Principal {
 		ControleBonificacao cb  = new ControleBonificacao();
 		cb.registra(f1);
 		
-		System.out.println(cb.totalBonificao);
+
 		
 		
 		

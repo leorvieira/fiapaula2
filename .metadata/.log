@@ -387,3 +387,21 @@ Caused by: java.lang.NullPointerException
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-03 20:37:24.170
 !MESSAGE executing callback sts4.classpath.PvWEPCQe SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-03 21:22:05.643
+!MESSAGE Preparing classpath changed notification SolucaoConta
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-03 21:22:05.659
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-03 21:22:05.660
+!MESSAGE classpath=20 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-03 21:22:05.661
+!MESSAGE buffering callback sts4.classpath.PvWEPCQe SolucaoConta false 20
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-03 21:22:05.661
+!MESSAGE executing callback sts4.classpath.PvWEPCQe 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-03 21:22:05.667
+!MESSAGE executing callback sts4.classpath.PvWEPCQe SUCCESS [done]
